@@ -1,2 +1,2 @@
 # Projects
-Personal dedicated to projects repository for projects. 
+Personal repository dedicated for projects. 
