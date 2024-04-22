@@ -1,0 +1,338 @@
+,collection_name,repository_name,repository_user,repository_link,no_of_stars,no_of_forks,programming_lang,repository_desc
+0,How to choose (and contribute to) your first open source project,rust-lang,rust,https://github.com/rust-lang/rust,82591,10914,Rust,Empowering everyone to build reliable and efficient software.
+1,How to choose (and contribute to) your first open source project,Homebrew,brew,https://github.com/Homebrew/brew,36272,8889,Ruby,🍺 The missing package manager for macOS (or Linux)
+2,How to choose (and contribute to) your first open source project,public-apis,public-apis,https://github.com/public-apis/public-apis,243582,27770,Python,A collective list of free APIs
+3,How to choose (and contribute to) your first open source project,SerenityOS,serenity,https://github.com/SerenityOS/serenity,24978,2683,C++,The Serenity Operating System 🐞
+4,How to choose (and contribute to) your first open source project,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard,4042,218,Go,The missing UI for Helm - visualize your releases
+5,How to choose (and contribute to) your first open source project,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery,4693,376,Go,The open source high performance data integration platform built for developers.
+6,How to choose (and contribute to) your first open source project,EddieHubCommunity,LinkFree,https://github.com/EddieHubCommunity/LinkFree,4097,3181,JavaScript,"Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe."
+7,How to choose (and contribute to) your first open source project,Ileriayo,markdown-badges,https://github.com/Ileriayo/markdown-badges,8189,1198,SCSS,"Badges for your personal developer branding, profile, and projects."
+8,Clean code linters,standard,standard,https://github.com/standard/standard,28271,2417,JavaScript,"🌟 JavaScript Style Guide, with linter & automatic code fixer"
+9,Clean code linters,eslint,eslint,https://github.com/eslint/eslint,22815,4161,JavaScript,Find and fix problems in your JavaScript code.
+10,Clean code linters,jshint,jshint,https://github.com/jshint/jshint,8900,1753,JavaScript,JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
+11,Clean code linters,clutchski,coffeelint,https://github.com/clutchski/coffeelint,1143,187,CoffeeScript,Lint your CoffeeScript.
+12,Clean code linters,csscomb,csscomb.js,https://github.com/csscomb/csscomb.js,3245,482,JavaScript,CSS coding style formatter
+13,Clean code linters,sds,scss-lint,https://github.com/sds/scss-lint,3612,481,Ruby,"Configurable tool for writing clean, consistent SCSS"
+14,Clean code linters,htmlhint,HTMLHint,https://github.com/htmlhint/HTMLHint,2953,391,JavaScript,⚙️ The static code analysis tool you need for your HTML
+15,Clean code linters,validator,validator,https://github.com/validator/validator,1459,292,Java,Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+16,Clean code linters,CSSLint,csslint,https://github.com/CSSLint/csslint,4741,520,JavaScript,Automated linting of Cascading Stylesheets
+17,Clean code linters,PyCQA,pycodestyle,https://github.com/PyCQA/pycodestyle,4859,717,Python,Simple Python style checker in one Python file
+18,Clean code linters,PyCQA,flake8,https://github.com/PyCQA/flake8,2862,285,Python,"flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+19,Clean code linters,psf,black,https://github.com/psf/black,32620,2102,Python,The uncompromising Python code formatter
+20,Clean code linters,checkstyle,checkstyle,https://github.com/checkstyle/checkstyle,7753,8594,Java,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly co…"
+21,Clean code linters,rubocop,rubocop,https://github.com/rubocop/rubocop,12279,3022,Ruby,"A Ruby static code analyzer and formatter, based on the community Ruby style guide."
+22,Clean code linters,oclint,oclint,https://github.com/oclint/oclint,3668,481,C++,"A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C"
+23,Clean code linters,dominikh,go-tools,https://github.com/dominikh/go-tools,5406,339,Go,Staticcheck - The advanced Go linter
+24,Clean code linters,ndmitchell,hlint,https://github.com/ndmitchell/hlint,1368,195,Haskell,Haskell source code suggestions
+25,Clean code linters,coala,coala,https://github.com/coala/coala,3472,1346,Python,"coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use."
+26,Clean code linters,pre-commit,pre-commit,https://github.com/pre-commit/pre-commit,10497,727,Python,A framework for managing and maintaining multi-language pre-commit hooks.
+27,Clean code linters,innogames,igcommit,https://github.com/innogames/igcommit,216,29,Python,Git pre-receive hook to check commits and code style
+28,Open journalism,fivethirtyeight,data,https://github.com/fivethirtyeight/data,16244,11076,Jupyter Notebook,Data and code behind the articles and graphics at FiveThirtyEight
+29,Open journalism,datadesk,notebooks,https://github.com/datadesk/notebooks,513,36,Python,All of our computational notebooks
+30,Open journalism,nytimes,objective-c-style-guide,https://github.com/nytimes/objective-c-style-guide,5818,1313,not specified,The Objective-C Style Guide used by The New York Times
+31,Open journalism,newsapps,beeswithmachineguns,https://github.com/newsapps/beeswithmachineguns,6333,667,Python,A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+32,Open journalism,voxmedia,meme,https://github.com/voxmedia/meme,1804,424,JavaScript,Meme generator
+33,Open journalism,propublica,guides,https://github.com/propublica/guides,1119,164,not specified,ProPublica's News App and Data Style Guides
+34,Open journalism,censusreporter,censusreporter,https://github.com/censusreporter/censusreporter,678,136,HTML,Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
+35,Open journalism,nprapps,app-template,https://github.com/nprapps/app-template,1520,209,JavaScript,The NPR visuals team's opinionated project template for client-side apps.
+36,Open journalism,TimeMagazineLabs,babynames,https://github.com/TimeMagazineLabs/babynames,577,81,JavaScript,Fun with the Social Security Administration's baby name data
+37,Open journalism,guardian,frontend,https://github.com/guardian/frontend,5692,564,Scala,The Guardian DotCom.
+38,Open journalism,dukechronicle,chronline,https://github.com/dukechronicle/chronline,176,22,Ruby,The official repository for the Duke Chronicle website
+39,Open journalism,BloombergGraphics,whatiscode,https://github.com/BloombergGraphics/whatiscode,3610,282,JavaScript,Paul Ford’s “What Is Code?”
+40,Open journalism,times,cardkit,https://github.com/times/cardkit,41,2,not specified,"A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included."
+41,Open journalism,mkiser,WTFJHT,https://github.com/mkiser/WTFJHT,500,203,HTML,Logging the daily shock and awe in national politics. Read in moderation.
+42,Design essentials,twbs,bootstrap,https://github.com/twbs/bootstrap,164192,78549,JavaScript,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+43,Design essentials,animate-css,animate.css,https://github.com/animate-css/animate.css,77987,16465,CSS,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+44,Design essentials,nathansmith,960-Grid-System,https://github.com/nathansmith/960-Grid-System,3926,531,CSS,The 960 Grid System is an effort to streamline web development workflow.
+45,Design essentials,necolas,normalize.css,https://github.com/necolas/normalize.css,50477,11014,CSS,A modern alternative to CSS resets
+46,Design essentials,ionic-team,ionicons,https://github.com/ionic-team/ionicons,16915,2070,TypeScript,"Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎"
+47,Design essentials,designmodo,Flat-UI,https://github.com/designmodo/Flat-UI,15029,2372,JavaScript,"Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites."
+48,Design essentials,h5bp,html5-boilerplate,https://github.com/h5bp/html5-boilerplate,54814,12246,JavaScript,"A professional front-end template for building fast, robust, and adaptable web apps or sites."
+49,Design essentials,foundation,foundation-sites,https://github.com/foundation/foundation-sites,29479,5590,HTML,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+50,Design essentials,Modernizr,Modernizr,https://github.com/Modernizr/Modernizr,25472,3045,JavaScript,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+51,Design essentials,twbs,ratchet,https://github.com/twbs/ratchet,14548,1490,CSS,"Build mobile apps with simple HTML, CSS, and JavaScript components. "
+52,Design essentials,IanLunn,Hover,https://github.com/IanLunn/Hover,28467,5824,SCSS,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available i…"
+53,Design essentials,connors,photon,https://github.com/connors/photon,9934,587,CSS,The fastest way to build beautiful Electron apps using simple HTML and CSS
+54,Design essentials,basscss,basscss,https://github.com/basscss/basscss,5790,313,CSS,Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+55,Design essentials,atlemo,SubtlePatterns,https://github.com/atlemo/SubtlePatterns,4596,450,HTML,All the patterns
+56,Design essentials,mrmrs,colors,https://github.com/mrmrs/colors,9209,534,CSS,Smarter defaults for colors on the web.
+57,Music,beetbox,beets,https://github.com/beetbox/beets,11689,1797,Python,music library manager and MusicBrainz tagger
+58,Music,scottschiller,SoundManager2,https://github.com/scottschiller/SoundManager2,4904,837,JavaScript,"A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed."
+59,Music,CreateJS,SoundJS,https://github.com/CreateJS/SoundJS,4356,873,JavaScript,"A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneG…"
+60,Music,musescore,MuseScore,https://github.com/musescore/MuseScore,9701,2231,C++,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!"
+61,Music,tomahawk-player,tomahawk,https://github.com/tomahawk-player/tomahawk,2899,375,C++,"Tomahawk, the multi-source music player"
+62,Music,cashmusic,platform,https://github.com/cashmusic/platform,1251,275,PHP,"A free and open platform giving all musicians access to tools that let them manage, promote, and sell their music online."
+63,Music,mopidy,mopidy,https://github.com/mopidy/mopidy,7714,685,Python,Mopidy is an extensible music server written in Python
+64,Music,AudioKit,AudioKit,https://github.com/AudioKit/AudioKit,9871,1502,Swift,"Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS"
+65,Music,Soundnode,soundnode-app,https://github.com/Soundnode/soundnode-app,5045,655,JavaScript,"Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API."
+66,Music,gillesdemey,Cumulus,https://github.com/gillesdemey/Cumulus,1407,137,JavaScript,☁️ A SoundCloud player that lives in your menubar.
+67,Music,metabrainz,picard,https://github.com/metabrainz/picard,3200,370,Python,MusicBrainz Picard audio file tagger
+68,Music,overtone,overtone,https://github.com/overtone/overtone,5654,453,Clojure,Collaborative Programmable Music 
+69,Music,sonic-pi-net,sonic-pi,https://github.com/sonic-pi-net/sonic-pi,10034,897,C++,Code. Music. Live.
+70,Music,nukeop,nuclear,https://github.com/nukeop/nuclear,10268,931,TypeScript,Streaming music player that finds free music for you
+71,Music,swdotcom,swdc-vscode-musictime,https://github.com/swdotcom/swdc-vscode-musictime,518,21,TypeScript,A VS Code extension to discover the most productive music to listen to as you code
+72,Music,hundredrabbits,Orca,https://github.com/hundredrabbits/Orca,4179,228,JavaScript,Esoteric Programming Language
+73,Music,8bitbubsy,pt2-clone,https://github.com/8bitbubsy/pt2-clone,316,24,C,ProTracker 2 clone for Windows/macOS/Linux
+74,Music,8bitbubsy,ft2-clone,https://github.com/8bitbubsy/ft2-clone,514,33,C,Fasttracker 2 clone for Windows/macOS/Linux
+75,Music,mywave82,opencubicplayer,https://github.com/mywave82/opencubicplayer,196,19,C,"Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene"
+76,Music,electronoora,komposter,https://github.com/electronoora/komposter,140,11,C,Modular virtual analog software synthesizer and sequencer for 4KB and 64KB intros
+77,Government apps,18F,development-guide,https://github.com/18F/development-guide,1080,128,HTML,A set of guidelines and best practices for an awesome software engineering team
+78,Government apps,cfpb,open-source-checklist,https://github.com/cfpb/open-source-checklist,420,36,JavaScript,check internal repos against open source checklist requirements
+79,Government apps,alphagov,whitehall,https://github.com/alphagov/whitehall,821,205,Ruby,Publishes government content on GOV.UK
+80,Government apps,nasa,openmct,https://github.com/nasa/openmct,10894,1218,JavaScript,A web based mission control framework. 
+81,Government apps,codeforamerica,adopt-a-hydrant,https://github.com/codeforamerica/adopt-a-hydrant,646,242,Ruby,"A web application that allows citizens to ""adopt"" civic infrastructure, such as fire hydrants that need to be shoveled out after it snows."
+82,Government apps,18F,ads-bpa,https://github.com/18F/ads-bpa,179,17,Ruby,A guide for the Agile Delivery Services BPA
+83,Government apps,project-open-data,project-open-data.github.io,https://github.com/project-open-data/project-open-data.github.io,1259,624,HTML,Open Data Policy — Managing Information as an Asset
+84,Government apps,opengovfoundation,madison,https://github.com/opengovfoundation/madison,616,115,PHP,"Madison is a platform for lawmakers to share legislation with their citizens, allowing the community to add comments and suggest improvements."
+85,Government apps,GSA,data.gov,https://github.com/GSA/data.gov,329,90,Shell,Main repository for the data.gov service
+86,Government apps,ngageoint,geoq,https://github.com/ngageoint/geoq,631,135,JavaScript,Django web application to collect geospatial features and manage feature collection among groups of users
+87,Government apps,wet-boew,wet-boew,https://github.com/wet-boew/wet-boew,1530,679,Handlebars,"Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source …"
+88,Government apps,CityOfPhiladelphia,flu-shot-spec,https://github.com/CityOfPhiladelphia/flu-shot-spec,151,31,Ruby,Proposed Data Specification for Flu Shot Locations
+89,Government apps,nysenate,OpenLegislation,https://github.com/nysenate/OpenLegislation,400,100,Java,OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time. It is used internally to serve up legislative dat…
+90,Government apps,openlexington,gethelplex,https://github.com/openlexington/gethelplex,129,23,JavaScript,"Substance use treatment locator for Lexington, KY"
+91,Government apps,uscensusbureau,citysdk,https://github.com/uscensusbureau/citysdk,904,191,Clojure,"Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)"
+92,Government apps,NREL,api-umbrella,https://github.com/NREL/api-umbrella,1894,338,Ruby,Open source API management platform
+93,Government apps,usds,playbook,https://github.com/usds/playbook,1331,356,CSS,The Digital Services Playbook
+94,Government apps,republique-et-canton-de-geneve,chvote-1-0,https://github.com/republique-et-canton-de-geneve/chvote-1-0,703,69,Java,"Electronic vote system, version 1."
+95,Government apps,gchq,CyberChef,https://github.com/gchq/CyberChef,21416,2523,JavaScript,"The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+96,DevOps tools,puppetlabs,puppet,https://github.com/puppetlabs/puppet,6971,2262,Ruby,Server automation framework and application
+97,DevOps tools,chef,chef,https://github.com/chef/chef,7240,2576,Ruby,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+98,DevOps tools,ansible,ansible,https://github.com/ansible/ansible,57675,23415,Python,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to clo…
+99,DevOps tools,hashicorp,terraform,https://github.com/hashicorp/terraform,37657,8683,Go,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amon…"
+100,DevOps tools,saltstack,salt,https://github.com/saltstack/salt,13278,5423,Python,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
+101,DevOps tools,apache,maven,https://github.com/apache/maven,3675,2488,Java,Apache Maven core
+102,DevOps tools,gradle,gradle,https://github.com/gradle/gradle,14767,4178,Groovy,"Adaptable, fast automation for all"
+103,DevOps tools,hashicorp,vagrant,https://github.com/hashicorp/vagrant,25248,4394,Ruby,Vagrant is a tool for building and distributing development environments.
+104,DevOps tools,openstack,openstack,https://github.com/openstack/openstack,4811,1578,Python,Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
+105,DevOps tools,moby,moby,https://github.com/moby/moby,66094,18706,Go,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+106,DevOps tools,capistrano,capistrano,https://github.com/capistrano/capistrano,12486,1830,Ruby,"A deployment automation tool built on Ruby, Rake, and SSH."
+107,DevOps tools,statsd,statsd,https://github.com/statsd/statsd,17078,2001,JavaScript,Daemon for easy but powerful stats aggregation
+108,DevOps tools,graphite-project,graphite-web,https://github.com/graphite-project/graphite-web,5674,1284,JavaScript,A highly scalable real-time graphing system
+109,DevOps tools,elastic,logstash,https://github.com/elastic/logstash,13500,3434,Java,"Logstash - transport and process your logs, events, or other data"
+110,DevOps tools,prometheus,prometheus,https://github.com/prometheus/prometheus,48582,8213,Go,The Prometheus monitoring system and time series database.
+111,DevOps tools,fabric,fabric,https://github.com/fabric/fabric,14076,1923,Python,"Simple, Pythonic remote execution and deployment."
+112,DevOps tools,grafana,grafana,https://github.com/grafana/grafana,55776,10920,TypeScript,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many mo…"
+113,DevOps tools,StackStorm,st2,https://github.com/StackStorm/st2,5551,711,Python,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…"
+114,DevOps tools,openshift,origin,https://github.com/openshift/origin,8348,4761,Go,Conformance test suite for OpenShift
+115,DevOps tools,getsentry,sentry,https://github.com/getsentry/sentry,34428,3815,Python,Developer-first error tracking and performance monitoring
+116,Front-end JavaScript frameworks,solidjs,solid,https://github.com/solidjs/solid,27973,763,TypeScript,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+117,Front-end JavaScript frameworks,marko-js,marko,https://github.com/marko-js/marko,12663,673,JavaScript,"A declarative, HTML-based language that makes building web apps fun"
+118,Front-end JavaScript frameworks,MithrilJS,mithril.js,https://github.com/MithrilJS/mithril.js,13642,961,JavaScript,A JavaScript Framework for Building Brilliant Applications
+119,Front-end JavaScript frameworks,angular,angular,https://github.com/angular/angular,88586,23721,TypeScript,The modern web developer’s platform
+120,Front-end JavaScript frameworks,emberjs,ember.js,https://github.com/emberjs/ember.js,22448,4297,JavaScript,Ember.js - A JavaScript framework for creating ambitious web applications
+121,Front-end JavaScript frameworks,knockout,knockout,https://github.com/knockout/knockout,10328,1557,JavaScript,"Knockout makes it easier to create rich, responsive UIs with JavaScript"
+122,Front-end JavaScript frameworks,tastejs,todomvc,https://github.com/tastejs/todomvc,28239,13958,JavaScript,"Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more"
+123,Front-end JavaScript frameworks,spine,spine,https://github.com/spine/spine,3631,442,JavaScript,Lightweight MVC library for building JavaScript applications
+124,Front-end JavaScript frameworks,vuejs,vue,https://github.com/vuejs/vue,204059,33867,TypeScript,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+125,Front-end JavaScript frameworks,Polymer,polymer,https://github.com/Polymer/polymer,21937,2026,HTML,Our original Web Component library.
+126,Front-end JavaScript frameworks,facebook,react,https://github.com/facebook/react,208933,43648,JavaScript,The library for web and native user interfaces
+127,Front-end JavaScript frameworks,finom,seemple,https://github.com/finom/seemple,861,79,JavaScript,Seemple.js framework
+128,Front-end JavaScript frameworks,aurelia,framework,https://github.com/aurelia/framework,11740,676,TypeScript,"The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia."
+129,Front-end JavaScript frameworks,optimizely,nuclear-js,https://github.com/optimizely/nuclear-js,2213,161,JavaScript,Reactive Flux built with ImmutableJS data structures. Framework agnostic.
+130,Front-end JavaScript frameworks,jashkenas,backbone,https://github.com/jashkenas/backbone,28010,5538,JavaScript,"Give your JS App some Backbone with Models, Views, Collections, and Events"
+131,Front-end JavaScript frameworks,dojo,dojo,https://github.com/dojo/dojo,1520,552,JavaScript,Dojo 1 - the Dojo 1 toolkit core library.
+132,Front-end JavaScript frameworks,jorgebucaran,hyperapp,https://github.com/jorgebucaran/hyperapp,18944,834,JavaScript,1kB-ish JavaScript framework for building hypertext applications
+133,Front-end JavaScript frameworks,riot,riot,https://github.com/riot/riot,14786,1014,JavaScript,Simple and elegant component-based UI library
+134,Front-end JavaScript frameworks,Daemonite,material,https://github.com/Daemonite/material,3191,738,CSS,Material Design for Bootstrap 4
+135,Front-end JavaScript frameworks,lit,lit,https://github.com/lit/lit,14736,767,TypeScript,"Lit is a simple library for building fast, lightweight web components."
+136,GitHub Browser Extensions,ovity,octotree,https://github.com/ovity/octotree,22476,1885,JavaScript,GitHub on steroids
+137,GitHub Browser Extensions,mike-north,chrome-github-boxcutter,https://github.com/mike-north/chrome-github-boxcutter,433,40,JavaScript,"A Google Chrome extension, for enhanced Github package manifests"
+138,GitHub Browser Extensions,muan,github-dashboard,https://github.com/muan/github-dashboard,751,53,JavaScript,[Web extension] Filter events on github.com activity dashboard.
+139,GitHub Browser Extensions,muan,github-gmail,https://github.com/muan/github-gmail,1143,240,JavaScript,[WebExtension] Open GitHub notifications with shortcuts in Gmail. 
+140,GitHub Browser Extensions,thieman,github-selfies,https://github.com/thieman/github-selfies,1095,87,JavaScript,"Everything is better with selfies. Yes, even pull requests. Trust me."
+141,GitHub Browser Extensions,brentyates,prettypullrequests,https://github.com/brentyates/prettypullrequests,309,37,JavaScript,A chrome extension to make reviewing pull requests in Github a little easier.
+142,GitHub Browser Extensions,sanemat,do-not-merge-wip-for-github,https://github.com/sanemat/do-not-merge-wip-for-github,387,48,JavaScript,Do Not Merge WIP for GitHub
+143,GitHub Browser Extensions,jasonlong,isometric-contributions,https://github.com/jasonlong/isometric-contributions,3350,176,JavaScript,Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
+144,GitHub Browser Extensions,ForbesLindesay,github-real-names,https://github.com/ForbesLindesay/github-real-names,258,37,JavaScript,A plugin for Google Chrome that adds a button to toggle showing real names instead of usernames on GitHub
+145,GitHub Browser Extensions,benbalter,github-mention-highlighter,https://github.com/benbalter/github-mention-highlighter,249,30,TypeScript,"A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of an…"
+146,GitHub Browser Extensions,sindresorhus,notifier-for-github,https://github.com/sindresorhus/notifier-for-github,1703,148,JavaScript,Browser extension - Get notified about new GitHub notifications
+147,GitHub Browser Extensions,OctoLinker,OctoLinker,https://github.com/OctoLinker/OctoLinker,5150,320,HTML,"OctoLinker — Links together, what belongs together"
+148,GitHub Browser Extensions,ProLoser,Github-Omnibox,https://github.com/ProLoser/Github-Omnibox,356,37,JavaScript,Github Commands from Google Chrome Omnibox (address bar)
+149,GitHub Browser Extensions,Justineo,github-hovercard,https://github.com/Justineo/github-hovercard,1766,107,JavaScript,Neat hovercards for GitHub.
+150,GitHub Browser Extensions,panzerdp,clipboardy,https://github.com/panzerdp/clipboardy,298,67,JavaScript,"Chrome extension for copying posted code to clipboard from stackoverflow.com, github.com & npmjs.com"
+151,GitHub Browser Extensions,zenorocha,codecopy,https://github.com/zenorocha/codecopy,974,116,JavaScript,A browser extension that adds copy to clipboard buttons on every code block
+152,GitHub Browser Extensions,kamranahmedse,githunt,https://github.com/kamranahmedse/githunt,2581,267,JavaScript,Hunt the most starred projects on any date on GitHub
+153,GitHub Browser Extensions,harshjv,github-repo-size,https://github.com/harshjv/github-repo-size,1154,129,JavaScript,🚀 Chrome extension to display repository size on GitHub
+154,GitHub Browser Extensions,refined-github,refined-github,https://github.com/refined-github/refined-github,21284,1454,TypeScript, Browser extension that simplifies the GitHub interface and adds useful features
+155,GitHub Browser Extensions,softvar,enhanced-github,https://github.com/softvar/enhanced-github,1830,181,JavaScript,"🚀 Browser extension to display size of each file, download link and copy file contents directly to the clipboard"
+156,GitHub Pages examples,twbs,bootstrap,https://github.com/twbs/bootstrap,164192,78549,JavaScript,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+157,GitHub Pages examples,jekyll,jekyll,https://github.com/jekyll/jekyll,46801,10103,Ruby,🌐 Jekyll is a blog-aware static site generator in Ruby
+158,GitHub Pages examples,github,government.github.com,https://github.com/github/government.github.com,1584,1016,HTML,"Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations"
+159,GitHub Pages examples,electron,electronjs.org-old,https://github.com/electron/electronjs.org-old,1567,720,Handlebars,Electron website
+160,GitHub Pages examples,square,square.github.io,https://github.com/square/square.github.io,1058,267,CSS,"A simple, static portal which outlines our open source offerings."
+161,GitHub Pages examples,twitter,opensource-website,https://github.com/twitter/opensource-website,2686,775,SCSS,"Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source."
+162,GitHub Pages examples,Netflix,netflix.github.com,https://github.com/Netflix/netflix.github.com,1382,447,HTML,No Description
+163,GitHub Pages examples,Yelp,yelp.github.io,https://github.com/Yelp/yelp.github.io,680,119,JavaScript,A showcase of projects we've open sourced and open source projects we use
+164,GitHub Pages examples,facebook,react,https://github.com/facebook/react,208933,43648,JavaScript,The library for web and native user interfaces
+165,GitHub Pages examples,artsy,artsy.github.io,https://github.com/artsy/artsy.github.io,986,237,SCSS,The Artsy Engineering Open-Source Developers Blog
+166,GitHub Pages examples,Metroxe,one-html-page-challenge,https://github.com/Metroxe/one-html-page-challenge,917,309,HTML,Can you create something cool without modern tools?
+167,GitHub Pages examples,fairfield-programming,fairfield-programming.github.io,https://github.com/fairfield-programming/fairfield-programming.github.io,111,34,JavaScript,🌐 The website for the Fairfield Programming Association. 
+168,Hacking Minecraft,docker,dockercraft,https://github.com/docker/dockercraft,6912,409,Lua,Docker + Minecraft = Dockercraft
+169,Hacking Minecraft,minefold,hubot-minecraft,https://github.com/minefold/hubot-minecraft,203,20,CoffeeScript,A Minecraft hubot adapter
+170,Hacking Minecraft,leereilly,hubot-minecraft-skin,https://github.com/leereilly/hubot-minecraft-skin,157,12,not specified,Hubot's very own Minecraft skin
+171,Hacking Minecraft,overviewer,Minecraft-Overviewer,https://github.com/overviewer/Minecraft-Overviewer,3230,483,Python,Render high-resolution maps of a Minecraft world with a Leaflet powered interface
+172,Hacking Minecraft,cuberite,cuberite,https://github.com/cuberite/cuberite,4607,630,C++,"A lightweight, fast and extensible game server for Minecraft"
+173,Hacking Minecraft,pmmp,PocketMine-MP,https://github.com/pmmp/PocketMine-MP,3066,1694,PHP,A server software for Minecraft: Bedrock Edition in PHP
+174,Hacking Minecraft,msmhq,msm,https://github.com/msmhq/msm,1181,231,Shell,An init script for managing Minecraft servers
+175,Hacking Minecraft,essentials,Essentials,https://github.com/essentials/Essentials,833,1372,Java,Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server
+176,Hacking Minecraft,VazkiiMods,Botania,https://github.com/VazkiiMods/Botania,1156,453,Java,A tech mod for Minecraft themed around the magic of nature and plant life.
+177,Hacking Minecraft,MightyPirates,OpenComputers,https://github.com/MightyPirates/OpenComputers,1451,413,Scala,Home of the OpenComputers mod for Minecraft.
+178,Hacking Minecraft,PrismarineJS,mineflayer,https://github.com/PrismarineJS/mineflayer,3879,754,JavaScript,"Create Minecraft bots with a powerful, stable, and high level JavaScript API."
+179,Hacking Minecraft,EngineHub,WorldEdit,https://github.com/EngineHub/WorldEdit,2790,786,Java,🗺️ Minecraft map editor and mod
+180,Hacking Minecraft,SpigotMC,BungeeCord,https://github.com/SpigotMC/BungeeCord,1406,1071,Java,"BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers."
+181,Hacking Minecraft,walterhiggins,ScriptCraft,https://github.com/walterhiggins/ScriptCraft,1798,389,JavaScript,Write Minecraft Plugins in JavaScript.
+182,Hacking Minecraft,MinecraftForge,MinecraftForge,https://github.com/MinecraftForge/MinecraftForge,6186,2555,Java,Modifications to the Minecraft base files to assist in compatibility between mods.
+183,Hacking Minecraft,ddevault,TrueCraft,https://github.com/ddevault/TrueCraft,2331,318,C#,Minecraft for hipsters
+184,Hacking Minecraft,MachineMuse,MachineMusePowersuits,https://github.com/MachineMuse/MachineMusePowersuits,227,97,Java,"Minecraft mod, take 2"
+185,Hacking Minecraft,micdoodle8,Galacticraft,https://github.com/micdoodle8/Galacticraft,592,320,Java,An advanced Space Dimension Mod for Minecraft
+186,Hacking Minecraft,Bukkit,Bukkit,https://github.com/Bukkit/Bukkit,2295,1068,Java,The Minecraft Mod API
+187,Hacking Minecraft,GlowstoneMC,Glowstone,https://github.com/GlowstoneMC/Glowstone,1800,278,Java,"A fast, customizable and compatible open source server for Minecraft: Java Edition"
+188,JavaScript Game Engines,pixijs,pixijs,https://github.com/pixijs/pixijs,40181,4757,TypeScript,"The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+189,JavaScript Game Engines,photonstorm,phaser,https://github.com/photonstorm/phaser,34618,6999,JavaScript,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+190,JavaScript Game Engines,melonjs,melonJS,https://github.com/melonjs/melonJS,5391,614,JavaScript,"a fresh, modern & lightweight HTML5 game engine"
+191,JavaScript Game Engines,gamelab,kiwi.js,https://github.com/gamelab/kiwi.js,1331,216,JavaScript,Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
+192,JavaScript Game Engines,craftyjs,Crafty,https://github.com/craftyjs/Crafty,3262,565,JavaScript,JavaScript Game Engine
+193,JavaScript Game Engines,liabru,matter-js,https://github.com/liabru/matter-js,14734,1966,JavaScript,a 2D rigid body physics engine for the web ▲● ■
+194,JavaScript Game Engines,shakiba,stage.js,https://github.com/shakiba/stage.js,2290,245,JavaScript,2D HTML5 rendering and layout engine for game development
+195,JavaScript Game Engines,cocos2d,cocos2d-html5,https://github.com/cocos2d/cocos2d-html5,3007,927,JavaScript,Cocos2d for Web Browsers. Built using JavaScript.
+196,JavaScript Game Engines,playcanvas,engine,https://github.com/playcanvas/engine,8442,1273,JavaScript,Fast and lightweight JavaScript game engine built on WebGL and glTF
+197,JavaScript Game Engines,BabylonJS,Babylon.js,https://github.com/BabylonJS/Babylon.js,20840,3166,TypeScript,"Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+198,JavaScript Game Engines,ekelokorpi,panda-engine,https://github.com/ekelokorpi/panda-engine,707,110,JavaScript,Panda Engine - HTML5 Game Engine
+199,JavaScript Game Engines,qiciengine,qiciengine,https://github.com/qiciengine/qiciengine,829,134,not specified,A free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games. http://www.qiciengine.com
+200,JavaScript Game Engines,WhitestormJS,whs.js,https://github.com/WhitestormJS/whs.js,6003,420,JavaScript,🚀 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
+201,JavaScript Game Engines,GooTechnologies,goojs,https://github.com/GooTechnologies/goojs,1194,146,JavaScript,3D WebGL engine.
+202,JavaScript Game Engines,shakiba,planck.js,https://github.com/shakiba/planck.js,4562,274,TypeScript,2D JavaScript Physics Engine
+203,JavaScript Game Engines,Irrelon,ige,https://github.com/Irrelon/ige,471,134,JavaScript,The Isogenic Game Engine
+204,JavaScript Game Engines,4ian,GDevelop,https://github.com/4ian/GDevelop,4906,630,JavaScript,"🎮 Open-source, cross-platform game engine designed to be used by everyone."
+205,JavaScript Game Engines,mrdoob,three.js,https://github.com/mrdoob/three.js,92593,34754,JavaScript,JavaScript 3D Library.
+206,JavaScript Game Engines,phoboslab,Impact,https://github.com/phoboslab/Impact,1867,196,JavaScript,HTML5 Game Engine
+207,JavaScript Game Engines,Cloud9c,taro,https://github.com/Cloud9c/taro,691,23,JavaScript,A lightweight 3D game engine for the web.
+208,Learn to Code,30-seconds,30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,113002,11598,JavaScript,Short code snippets for all your development needs
+209,Learn to Code,railsgirls,guides.railsgirls.com,https://github.com/railsgirls/guides.railsgirls.com,5710,725,HTML,Rails Girls Guides
+210,Learn to Code,railsbridge,docs,https://github.com/railsbridge/docs,3025,454,Ruby,Curriculum for RailsBridge workshops
+211,Learn to Code,freeCodeCamp,freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,368569,32397,TypeScript,freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+212,Learn to Code,leachim6,hello-world,https://github.com/leachim6/hello-world,9908,1828,Assembly,"Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!"
+213,Learn to Code,datasciencemasters,go,https://github.com/datasciencemasters/go,23312,6167,not specified,The Open Source Data Science Masters
+214,Learn to Code,practical-tutorials,project-based-learning,https://github.com/practical-tutorials/project-based-learning,106567,14865,not specified,Curated list of project-based tutorials
+215,Learn to Code,zhiwehu,Python-programming-exercises,https://github.com/zhiwehu/Python-programming-exercises,23788,6616,not specified,100+ Python challenging programming exercises
+216,Learn to Code,MunGell,awesome-for-beginners,https://github.com/MunGell/awesome-for-beginners,52115,6277,not specified,A list of awesome beginners-friendly projects.
+217,Learn to Code,appacademy,welcome-to-open,https://github.com/appacademy/welcome-to-open,3949,99,not specified,Overview of App Academy Open
+218,Learn to Code,lostdesign,webgems,https://github.com/lostdesign/webgems,4176,184,Vue,A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+219,Learn to Code,kamranahmedse,developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,241802,34065,TypeScript,"Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+220,Learn to Code,AMAI-GmbH,AI-Expert-Roadmap,https://github.com/AMAI-GmbH/AI-Expert-Roadmap,25779,2236,JavaScript,Roadmap to becoming an Artificial Intelligence Expert in 2022
+221,Learn to Code,trekhleb,javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,171240,28076,JavaScript,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+222,Learn to Code,microsoft,Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners,70742,11098,JavaScript,"24 Lessons, 12 Weeks, Get Started as a Web Developer"
+223,Learn to Code,karan,Projects,https://github.com/karan/Projects,42284,10472,not specified,📃 A list of practical projects that anyone can solve in any programming language.
+224,Learn to Code,sindresorhus,awesome,https://github.com/sindresorhus/awesome,257708,25891,not specified,😎 Awesome lists about all kinds of interesting topics
+225,Learn to Code,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer,222110,39338,Python,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+226,Learn to Code,codecrafters-io,build-your-own-x,https://github.com/codecrafters-io/build-your-own-x,204161,19885,not specified,Master programming by recreating your favorite technologies from scratch.
+227,Learn to Code,public-apis,public-apis,https://github.com/public-apis/public-apis,243582,27770,Python,A collective list of free APIs
+228,Getting started with machine learning,apache,spark,https://github.com/apache/spark,35963,27020,Scala,Apache Spark - A unified analytics engine for large-scale data processing
+229,Getting started with machine learning,apache,hadoop,https://github.com/apache/hadoop,13593,8408,Java,Apache Hadoop
+230,Getting started with machine learning,jbhuang0604,awesome-computer-vision,https://github.com/jbhuang0604/awesome-computer-vision,18349,4033,not specified,A curated list of awesome computer vision resources
+231,Getting started with machine learning,GSA,data,https://github.com/GSA/data,1978,293,HTML,Assorted data from the General Services Administration.
+232,Getting started with machine learning,GoogleTrends,data,https://github.com/GoogleTrends/data,4455,459,JavaScript,An index of all open-source data
+233,Getting started with machine learning,nationalparkservice,data,https://github.com/nationalparkservice/data,1146,86,JavaScript,An unofficial repository of National Park Service data.
+234,Getting started with machine learning,fivethirtyeight,data,https://github.com/fivethirtyeight/data,16244,11076,Jupyter Notebook,Data and code behind the articles and graphics at FiveThirtyEight
+235,Getting started with machine learning,beamandrew,medical-data,https://github.com/beamandrew/medical-data,5499,1133,not specified,No Description
+236,Getting started with machine learning,src-d,awesome-machine-learning-on-source-code,https://github.com/src-d/awesome-machine-learning-on-source-code,5886,827,not specified,Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+237,Getting started with machine learning,igrigorik,decisiontree,https://github.com/igrigorik/decisiontree,1388,134,Ruby,ID3-based implementation of the ML Decision Tree algorithm
+238,Getting started with machine learning,keon,awesome-nlp,https://github.com/keon/awesome-nlp,14815,2503,not specified,📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+239,Getting started with machine learning,openai,gym,https://github.com/openai/gym,32182,8467,Python,A toolkit for developing and comparing reinforcement learning algorithms.
+240,Getting started with machine learning,aikorea,awesome-rl,https://github.com/aikorea/awesome-rl,8218,1813,not specified,Reinforcement learning resources curated
+241,Getting started with machine learning,umutisik,Eigentechno,https://github.com/umutisik/Eigentechno,726,45,Jupyter Notebook,Principal Component Analysis on music loops
+242,Getting started with machine learning,jpmckinney,tf-idf-similarity,https://github.com/jpmckinney/tf-idf-similarity,665,62,Ruby,Ruby gem to calculate the similarity between texts using tf*idf
+243,Getting started with machine learning,scikit-learn-contrib,lightning,https://github.com/scikit-learn-contrib/lightning,1654,205,Python,"Large-scale linear classification, regression and ranking in Python"
+244,Getting started with machine learning,gwding,draw_convnet,https://github.com/gwding/draw_convnet,2424,500,Python,No Description
+245,Getting started with machine learning,scikit-learn,scikit-learn,https://github.com/scikit-learn/scikit-learn,54577,24329,Python,scikit-learn: machine learning in Python
+246,Getting started with machine learning,tensorflow,tensorflow,https://github.com/tensorflow/tensorflow,175492,88449,C++,An Open Source Machine Learning Framework for Everyone
+247,Getting started with machine learning,activeloopai,deeplake,https://github.com/activeloopai/deeplake,6143,476,Python,"Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activelo…"
+248,Made in Africa,acekyd,made-in-nigeria,https://github.com/acekyd/made-in-nigeria,890,369,TypeScript,Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.
+249,Made in Africa,frontlinesms,frontlinesms2,https://github.com/frontlinesms/frontlinesms2,217,60,Groovy,FrontlineSMS is desktop/cloud based software created to lower barriers to positive social change using mobile technology
+250,Made in Africa,ushahidi,SMSSync,https://github.com/ushahidi/SMSSync,1080,500,Java,SMS gateway for Android powered phones
+251,Made in Africa,praekeltfoundation,vumi,https://github.com/praekeltfoundation/vumi,411,132,Python,"Messaging engine for the delivery of SMS, Star Menu and chat messages to diverse audiences in emerging markets and beyond."
+252,Made in Africa,rapidpro,rapidpro,https://github.com/rapidpro/rapidpro,817,387,JavaScript,RapidPro allows organizations to visually build scalable interactive messaging applications.
+253,Made in Africa,pluspeople,pesaPi,https://github.com/pluspeople/pesaPi,373,249,PHP,"PesaPI is an API for mobile money systems across Africa. Using PesaPI you can save considerable time and effort when integrating mobile money systems into your application, making it easy for your …"
+254,Made in Africa,praekeltfoundation,junebug,https://github.com/praekeltfoundation/junebug,97,23,Python,A system for managing text messaging transports with via RESTful HTTP interface.
+255,Made in Africa,chisimba,chisimba,https://github.com/chisimba/chisimba,148,28,JavaScript,Chisimba is the product of a collaboration of the 13 African universities involved in the African Virtual Open Initiatives and Resources (AVOIR) project. Its main purpose is to foster capacity buil…
+256,Made in Africa,OpenInstitute,OpenDuka,https://github.com/OpenInstitute/OpenDuka,156,41,PHP,"Open Duka is a project designed by the Open Institute that will provide a freely accessible database of information on Kenyan entities. This information will provide citizens, journalists, and civi…"
+257,Made in Africa,CodeForAfrica,GotToVote,https://github.com/CodeForAfrica/GotToVote,200,71,JavaScript,GotToVote is a toolkit of simple web and SMS services that help citizens get to the ballot box informed and ready to vote. Kenya version accessible at https://kenya.gottovote.cc
+258,Made in Africa,universalcore,elastic-git,https://github.com/universalcore/elastic-git,143,12,Python,"Store data in Git, find it in Elasticsearch."
+259,Made in Africa,nyaruka,smartmin,https://github.com/nyaruka/smartmin,197,31,Python,Django Smartmin - An admin-like utility for users
+260,Made in Africa,gernest,utron,https://github.com/gernest/utron,2219,166,Go,A lightweight MVC framework for Go(Golang)
+261,Made in Africa,ushahidi,platform,https://github.com/ushahidi/platform,645,399,PHP,Ushahidi Platform API version 3+
+262,Made in Africa,Yorubaname,yorubaname-website,https://github.com/Yorubaname/yorubaname-website,128,54,Java,Source code for YorubaName dictionary
+263,Made in Africa,codedivoire,made-in-ci,https://github.com/codedivoire/made-in-ci,39,19,not specified,Repertoire du code Made in CI
+264,Made in Africa,beopencloud,cno,https://github.com/beopencloud/cno,27,10,Shell,An open source platform to onboard easily and securely organizational teams on multi-cloud Kubernetes clusters from a single console.
+265,Made in Africa,javascriptdata,danfojs,https://github.com/javascriptdata/danfojs,4233,187,TypeScript,"Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data."
+266,Made in Africa,bangajs,banga-cli,https://github.com/bangajs/banga-cli,145,7,EJS,BàngáJS is a CLI generator for scaffolding ExpressJS applications with speed and efficiency.
+267,Net neutrality,EFForg,action-center-platform,https://github.com/EFForg/action-center-platform,402,65,Ruby,The EFF Action Center Platform
+268,Net neutrality,fightforthefuture,battleforthenet,https://github.com/fightforthefuture/battleforthenet,247,45,HTML,No Description
+269,Net neutrality,fightforthefuture,battleforthenet-widget,https://github.com/fightforthefuture/battleforthenet-widget,662,122,JavaScript,Embed this widget on your site and help save net neutrality!
+270,Net neutrality,mariechatfield,call-my-congress,https://github.com/mariechatfield/call-my-congress,170,14,HTML,DEPRECATED. Simple app that displays contact information for US Congress representatives by district.
+271,Net neutrality,mozilla,advocacy.mozilla.org,https://github.com/mozilla/advocacy.mozilla.org,173,34,JavaScript,No Description
+272,Net neutrality,panxzz,NN-blackout,https://github.com/panxzz/NN-blackout,113,6,JavaScript,Purposefully slows loading of webpages to simulate what the internet would look like without Net Neutrality
+273,Net neutrality,j2kao,fcc_nn_research,https://github.com/j2kao/fcc_nn_research,157,24,Jupyter Notebook,(somewhat) cleaned-up notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal)
+274,Net neutrality,berkmancenter,internet_monitor,https://github.com/berkmancenter/internet_monitor,190,20,HTML,"The Internet Monitor is a research project to evaluate, describe, and summarize the means, mechanisms, and extent of Internet content controls and Internet activity around the world."
+275,Net neutrality,ahmia,ahmia-site,https://github.com/ahmia/ahmia-site,308,62,Python,Ahmia.fi - Hidden service search engine
+276,Open data,GSA,data,https://github.com/GSA/data,1978,293,HTML,Assorted data from the General Services Administration.
+277,Open data,unitedstates,congress-legislators,https://github.com/unitedstates/congress-legislators,1860,496,Python,"Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents."
+278,Open data,Chicago,food-inspections-evaluation,https://github.com/Chicago/food-inspections-evaluation,381,132,HTML,This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predi…
+279,Open data,OpenExoplanetCatalogue,open_exoplanet_catalogue,https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue,918,214,Python,The main data repository for the Open Exoplanet Catalogue
+280,Open data,cernopendata,opendata.cern.ch,https://github.com/cernopendata/opendata.cern.ch,588,141,Python,Source code for the CERN Open Data portal
+281,Open data,openaddresses,openaddresses,https://github.com/openaddresses/openaddresses,2595,867,JavaScript,A repository of global open address data.
+282,Open data,APIs-guru,openapi-directory,https://github.com/APIs-guru/openapi-directory,3234,546,not specified,🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+283,Open data,whosonfirst-data,whosonfirst-data,https://github.com/whosonfirst-data/whosonfirst-data,351,6,not specified,Who's On First is a gazetteer of places.
+284,Open source organizations,adobe,adobe.github.com,https://github.com/adobe/adobe.github.com,1243,341,CSS,Adobe central hub for open source
+285,Open source organizations,RedHatOfficial,RedHatOfficial.github.io,https://github.com/RedHatOfficial/RedHatOfficial.github.io,581,219,SCSS,The official Red Hat project page.
+286,Open source organizations,cfpb,cfpb.github.io,https://github.com/cfpb/cfpb.github.io,311,107,CSS,A site for the CFPB to share and discuss its technology work with the world.
+287,Open source organizations,Netflix,netflix.github.com,https://github.com/Netflix/netflix.github.com,1382,447,HTML,No Description
+288,Open source organizations,Esri,esri.github.io,https://github.com/Esri/esri.github.io,494,122,JavaScript,Esri GitHub landing page
+289,Open source organizations,square,square.github.io,https://github.com/square/square.github.io,1058,267,CSS,"A simple, static portal which outlines our open source offerings."
+290,Open source organizations,twitter,opensource-website,https://github.com/twitter/opensource-website,2686,775,SCSS,"Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source."
+291,Open source organizations,guardian,guardian.github.com,https://github.com/guardian/guardian.github.com,303,59,HTML,Guardian github pages
+292,Open source organizations,Yelp,yelp.github.io,https://github.com/Yelp/yelp.github.io,680,119,JavaScript,A showcase of projects we've open sourced and open source projects we use
+293,Open source organizations,IBM,ibm.github.io,https://github.com/IBM/ibm.github.io,1086,246,JavaScript,IBM Open Source at GitHub
+294,Open source organizations,microsoft,microsoft.github.io,https://github.com/microsoft/microsoft.github.io,2239,511,HTML,Microsoft on GitHub
+295,Open source organizations,artsy,artsy.github.io,https://github.com/artsy/artsy.github.io,986,237,SCSS,The Artsy Engineering Open-Source Developers Blog
+296,Open source organizations,OSGeo,osgeo,https://github.com/OSGeo/osgeo,286,64,CSS,The Open Source Geospatial Foundation is not-for-profit organization to empower everyone with open source geospatial. Directly supports projects as an outreach and advocacy organization providing f…
+297,Open source organizations,godaddy,godaddy.github.io,https://github.com/godaddy/godaddy.github.io,122,11,HTML,Deprecated version of GoDaddy blog. See https://github.com/godaddy/engineering.
+298,Open source organizations,cloudflare,cloudflare.github.io,https://github.com/cloudflare/cloudflare.github.io,280,31,CSS,Cloudflare ❤️ Open Source
+299,Open source organizations,eleme,eleme.github.io,https://github.com/eleme/eleme.github.io,96,16,CSS,Eleme Developers Homepage
+300,Open source organizations,didi,didi.github.io,https://github.com/didi/didi.github.io,123,24,HTML,didi website
+301,Open source organizations,alibaba,alibaba.github.com,https://github.com/alibaba/alibaba.github.com,272,63,CSS,The alibaba github homepage.
+302,Open source organizations,google,google.github.io,https://github.com/google/google.github.io,361,78,HTML,No Description
+303,Open source organizations,proyecto26,proyecto26.github.io,https://github.com/proyecto26/proyecto26.github.io,44,4,JavaScript,The Proyecto26 github homepage.
+304,Policies,github,balanced-employee-ip-agreement,https://github.com/github/balanced-employee-ip-agreement,2051,172,not specified,"GitHub's employee intellectual property agreement, open sourced and reusable"
+305,Policies,github,site-policy,https://github.com/github/site-policy,1548,655,not specified,"Collaborative development on GitHub's site policies, procedures, and guidelines"
+306,Policies,hackdaymanifesto,site,https://github.com/hackdaymanifesto/site,384,139,HTML,The Hackday Manifesto
+307,Policies,BetaNYC,Bike-Share-Data-Best-Practices,https://github.com/BetaNYC/Bike-Share-Data-Best-Practices,220,49,not specified,This repo is designed to gather bike share data best practices AND socialize a list of open and free tools to hack on bike share data. This grows from Council Member Brad Lander introducing Int. No…
+308,Policies,project-open-data,project-open-data.github.io,https://github.com/project-open-data/project-open-data.github.io,1259,624,HTML,Open Data Policy — Managing Information as an Asset
+309,Policies,usds,playbook,https://github.com/usds/playbook,1331,356,CSS,The Digital Services Playbook
+310,Policies,18F,open-source-policy,https://github.com/18F/open-source-policy,280,102,not specified,This repository contains the official Open Source Policy of 18F
+311,Policies,WhiteHouse,fitara,https://github.com/WhiteHouse/fitara,95,34,CSS,Management and Oversight of Federal IT Resources
+312,Policies,GSA,https,https://github.com/GSA/https,235,112,Python,"The HTTPS-Only Standard for federal domains (M-15-13), and implementation guidance."
+313,Policies,CommerceGov,Policies-and-Guidance,https://github.com/CommerceGov/Policies-and-Guidance,80,27,not specified,Official instructions that are directly relevant to work performed by @CommerceGov on Github.
+314,Policies,github,site-policy,https://github.com/github/site-policy,1548,655,not specified,"Collaborative development on GitHub's site policies, procedures, and guidelines"
+315,Policies,Medium,medium-policy,https://github.com/Medium/medium-policy,234,71,not specified,Medium’s Policies and Guidelines.
+316,Policies,Automattic,legalmattic,https://github.com/Automattic/legalmattic,663,257,not specified,Democratizing WordPress.com legalese since 2014!
+317,Policies,divegeek,uscode,https://github.com/divegeek/uscode,771,61,Python,The United States Code
+318,Policies,seriesseed,equity,https://github.com/seriesseed/equity,1209,341,not specified,Series Seed Preferred Stock
+319,Software productivity tools,ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,159802,25308,Shell,"🙃 A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python…"
+320,Software productivity tools,microsoft,terminal,https://github.com/microsoft/terminal,89157,7829,C++,"The new Windows Terminal and the original Windows console host, all in the same place!"
+321,Software productivity tools,ggreer,the_silver_searcher,https://github.com/ggreer/the_silver_searcher,24947,1388,C,"A code-searching tool similar to ack, but faster."
+322,Software productivity tools,arc90,git-sweep,https://github.com/arc90/git-sweep,2434,132,Python,A command-line tool that helps you clean up Git branches that have been merged into master.
+323,Software productivity tools,bhollis,jsonview,https://github.com/bhollis/jsonview,1378,221,TypeScript,A web extension that helps you view JSON documents in the browser. 
+324,Software productivity tools,ShareX,ShareX,https://github.com/ShareX/ShareX,24524,2886,C#,"ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of f…"
+325,Software productivity tools,sindresorhus,quick-look-plugins,https://github.com/sindresorhus/quick-look-plugins,17389,557,not specified,List of useful Quick Look plugins for developers
+326,Software productivity tools,rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner,9793,524,Scala,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala"
+327,Software productivity tools,mhagger,git-imerge,https://github.com/mhagger/git-imerge,2585,136,Python,Incremental merge for git
+328,Software productivity tools,eddiezane,lunchy,https://github.com/eddiezane/lunchy,2893,125,Ruby,A friendly wrapper for launchctl
+329,Software productivity tools,awaescher,RepoZ,https://github.com/awaescher/RepoZ,890,82,C#,👨‍💻 A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
+330,Software productivity tools,sharkdp,fd,https://github.com/sharkdp/fd,27797,702,Rust,"A simple, fast and user-friendly alternative to 'find'"
+331,Software productivity tools,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep,38320,1711,Rust,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+332,Software productivity tools,jqlang,jq,https://github.com/jqlang/jq,25155,1448,C,Command-line JSON processor
+333,Software productivity tools,alacritty,alacritty,https://github.com/alacritty/alacritty,47185,2782,Rust,"A cross-platform, OpenGL terminal emulator."
+334,Software productivity tools,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide,10845,384,Rust,A smarter cd command. Supports all major shells.
+335,Software productivity tools,Slackadays,Clipboard,https://github.com/Slackadays/Clipboard,3539,97,C++,"😎 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager 🧠"
+336,Software productivity tools,devtron-labs,devtron,https://github.com/devtron-labs/devtron,3288,341,Go,Tool integration platform for Kubernetes
