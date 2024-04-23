@@ -1,5 +1,3 @@
----
-
 ## Instructions for Use
 
 ### 1. Approach to the Solution:
@@ -66,5 +64,3 @@ Ensure you have the following dependencies installed:
 You can install these dependencies using pip as mentioned in step 1 above.
 
 Following these instructions should allow you to run the provided Python script and generate the desired output successfully.
-
----
