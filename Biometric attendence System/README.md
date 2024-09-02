@@ -44,11 +44,10 @@ To store and manage fingerprints and verify them for attendance purposes.
 - Requires passcode authentication to execute.
 
 ## Circuit Diagram
-
-![alt text](./images/image-4.png)
+<img src="./images/image-4.png" height="600" width="700"/>
 
 - Steps:
-  ![alt text](./images/image.png)
-  ![alt text](./images/image-1.png)
-  ![alt text](./images/image-2.png)
-  ![alt text](./images/image-3.png)
+<img src="./images/image.png" height="550" width="600"/>
+<img src="./images/image-1.png" height="550" width="600"/>
+<img src="./images/image-2.png" height="550" width="600"/>
+<img src="./images/image-3.png" height="550" width="600"/>
