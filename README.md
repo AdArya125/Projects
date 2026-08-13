@@ -34,6 +34,26 @@ This repository serves as a central index to all of my major projects. Each proj
 |---------|-------------|--------------|------------|
 | **Intuitionistic propositional logic** | Automatic theorem proving, verification methods, formal methods | Lean 4 | [Repository](https://github.com/AdArya125/formalizing-logic-in-lean) |
 
+
+
+
+### COL7333 - Introduction to Artificial Intelligence
+##### Professor - [Mausam](https://www.cse.iitd.ac.in/~mausam/)
+
+
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| Assignment 1 | Search/solver-based assignment for COL7333 | C++ | [Repository](https://github.com/AdArya125/AI_assignment_1) |
+| Assignment 2 | Build a Game-Playing Agent that plays Stones & Rivers Board Game using Adversarial Search | Python | [Repository](https://github.com/AdArya125/AI_assignment_2) |
+| Assignment 3 | Formulation of the City Metro Planning problem as a SAT problem, solved using MiniSat, with decoding/visualization of the output | Python | [Repository](https://github.com/AdArya125/AI_assignment_3) |
+
+#### Related Independent Work
+*(not a COL7333 assignment - included here since it applies AI search algorithms)*
+
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| **Automated Cracking of Substitution Ciphers** | Cracks monoalphabetic substitution ciphers using AI search: a statistical English language model (uni/bi/tri/quad-gram + word frequencies) scores candidates, an initial key estimate comes from the Hungarian algorithm on bigram cost matrices, then local/global optimization search refines the key by maximizing decryption likelihood | Python | [Repository](https://github.com/AdArya125/Substitution-Ciphers-Cracking) |
+
 ---
 
 ## COD7001  - Systems Concepts (Cornerstone Project)
@@ -57,29 +77,20 @@ This repository serves as a central index to all of my major projects. Each proj
 
 ## Semester II
 
-### COL7333 - Introduction to Artificial Intelligence
-##### Professor - [Mausam](https://www.cse.iitd.ac.in/~mausam/)
-
-
+### COL7880 — Introduction to Parallel and Distributed Programming
+##### Professor - [Subodh Sharma](https://subodhvsharma.github.io/)
+ 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| Assignment 1 | Search/solver-based assignment for COL7333 | C++ | [Repository](https://github.com/AdArya125/AI_assignment_1) |
-| Assignment 2 | Build a Game-Playing Agent that plays Stones & Rivers Board Game using Adversarial Search | Python | [Repository](https://github.com/AdArya125/AI_assignment_2) |
-| Assignment 3 | Formulation of the City Metro Planning problem as a SAT problem, solved using MiniSat, with decoding/visualization of the output | Python | [Repository](https://github.com/AdArya125/AI_assignment_3) |
-
-#### Related Independent Work
-*(not a COL7333 assignment - included here since it applies AI search algorithms)*
-
-| Project | Description | Technologies | Repository |
-|---------|-------------|--------------|------------|
-| **Automated Cracking of Substitution Ciphers** | Cracks monoalphabetic substitution ciphers using AI search: a statistical English language model (uni/bi/tri/quad-gram + word frequencies) scores candidates, an initial key estimate comes from the Hungarian algorithm on bigram cost matrices, then local/global optimization search refines the key by maximizing decryption likelihood | Python | [Repository](https://github.com/AdArya125/Substitution-Ciphers-Cracking) |
-
+| **Assignment 1** – Parallel Order-Book Processing | Processes a stream of bit-packed, bit-stuffed exchange order packets in parallel with OpenMP: memoized parallel decoding, task-based overlapping live display snapshots, thread-local aggregation for per-stock order statistics, and a reduction-based total traded amount | C++, OpenMP | [Repository](https://github.com/AdArya125/OpenMP-Order-Book-Processing-COL7880-A1) |
+| **Assignment 2** – GPU-Accelerated Nearest Neighbours & K-Means | Exact KNN (tiled all-pairs CUDA kernel, register-resident per-thread max-heap), Approximate KNN (grid-based cell search trading bounded accuracy for speed), and K-Means (OpenMP-parallel Lloyd's algorithm) benchmarked against a CPU baseline — up to ~330× speedup on exact KNN | C++, CUDA, OpenMP | [Repository](https://github.com/AdArya125/CUDA-KNN-KMeans-COL7880-A2) |
+| **Assignment 3** – Budgeted Maximum Weight Clique | Exact Branch & Bound solver for the Budgeted Maximum Weight Clique problem, parallelized across MPI ranks with dynamic work-unit distribution (round-robin dispatch of shallow B&B snapshots) and global bound sharing via `MPI_Allreduce`; uses structural (graph-coloring) and resource (fractional knapsack) pruning bounds with bitset adjacency | C++, MPI | [Repository](https://github.com/AdArya125/MPI-Budgeted-Max-Weight-Clique) |
 ### COL7560 - Machine Learning for Networked Systems
 ##### Professor - [Tarun Mangla](https://tarunmangla.github.io/)
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
-| **VideoNOCv2** | Our own video-conferencing Network Operations Center project, rewritten as a session-first v2: groups raw network flows into sessions correctly first, then visualizes them, with ML kept as a supporting layer rather than the main focus. Carries forward the lower-layer packet extraction/RTP-audit/flow-assembly components from our v1 while rebuilding sessionization and the dashboard cleanly | Python | [Repository](https://github.com/AdArya125/VideoNOC) |
+| **VideoNOC** | Our own video-conferencing Network Operations Center project, rewritten as a session-first v2: groups raw network flows into sessions correctly first, then visualizes them, with ML kept as a supporting layer rather than the main focus. Carries forward the lower-layer packet extraction/RTP-audit/flow-assembly components from our v1 while rebuilding sessionization and the dashboard cleanly | Python | [Repository](https://github.com/AdArya125/VideoNOC) |
 
 ---
 
