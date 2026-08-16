@@ -119,6 +119,7 @@ This repository serves as a central index to all of my major projects. Each proj
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
 | **eBPF API Latency Profiler** | A standalone Linux observability tool that captures HTTP/1.1 traffic at the socket layer using eBPF, with no application modification required. A socket-filter eBPF program streams TCP segment metadata into a ring buffer; a userspace pipeline (collector → correlator → enricher → output) reconstructs per-connection HTTP/1.1 request/response pairs, enriches events with PID/process/container via `/proc`, and emits per-request latency as a JSONL stream | C, eBPF, libbpf, Docker | [Repository](https://github.com/AdArya125/eBPF-API-Latency-Profiler) |
+| **MatMul-Bench** – Dense Matrix Multiplication Optimization & Performance Study | A systems performance study tracking dense matrix multiplication from a naive O(N³) baseline through loop reordering, cache blocking, OpenMP multithreading, AVX2 SIMD (FMA3), CUDA (naive + shared-memory tiled), MPI, and hybrid MPI+OpenMP - up to ~377x speedup over naive on GPU. Empirically verified with Linux `perf` hardware counters (IPC, cache requests), Valgrind Cachegrind (L1 miss rates), and NVIDIA Nsight Compute (SM occupancy, throughput) | C++, CUDA, OpenMP, MPI, AVX2 | [Repository](https://github.com/AdArya125/MatMul-Bench-Dense-Matrix-Multiplication-Optimization-Performance-Study) |
 | **Serverless / FaaS Platform** | A miniature Function-as-a-Service platform built from scratch: register a function, invoke via CLI/HTTP, get a result with real cold/warm starts, a runtime lifecycle state machine, scale-to-zero, self-healing recovery on dead runtimes, SQLite-backed persistence, Prometheus metrics, and a pluggable Docker/Kubernetes execution backend | C++, Docker, Kubernetes, SQLite, Prometheus | [Repository](https://github.com/AdArya125/Serverless-FaaS-Platform) |
 | **Custom System Call** | Adds custom syscalls to a Linux kernel (6.6.39) built from source, boots via a static-BusyBox QEMU initramfs, and verifies invocation through `dmesg` | C, Linux Kernel, QEMU | [Repository](https://github.com/AdArya125/Custom_System_Call) |
 
@@ -216,7 +217,7 @@ Naming isn't fully uniform across repos, but there are consistent patterns by ca
 - **Cornerstone Project (COD7001) assignments** use the suffix `-Cornerstone-P<n>`, e.g. `Unix-Shell-Cornerstone-P1`, `Bytecode-Virtual-Machine-Cornerstone-P4`.
 - **MLOps learning-series repos** are prefixed `MLOPS-`, e.g. `MLOPS-CI`, `MLOPS-Complete-ML-Pipeline`.
 - **AI coursework assignments (COL7333)** follow `AI_assignment_<n>`.
-- Standalone systems/ML projects (e.g. `Serverless-FaaS-Platform`, `Speech-emotion-recognition`, `Substitution-Ciphers-Cracking`, `eBPF-API-Latency-Profiler`) use a descriptive project name with no course-code prefix.
+- Standalone systems/ML projects (e.g. `Serverless-FaaS-Platform`, `Speech-emotion-recognition`, `Substitution-Ciphers-Cracking`, `eBPF-API-Latency-Profiler`, `MatMul-Bench-Dense-Matrix-Multiplication-Optimization-Performance-Study`) use a descriptive project name with no course-code prefix.
 
 ---
 
